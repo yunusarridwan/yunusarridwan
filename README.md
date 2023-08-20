@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**yunusarridwan/yunusarridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**yunusarridwan/yunusarridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Yunus Priatna Arridhwan Budiansyah**.\
+
+Saya seorang **Mahasiswa** di **Universitas Pamulang** <!--[Dicoding](https://www.dicoding.com/).-->\
+
+
